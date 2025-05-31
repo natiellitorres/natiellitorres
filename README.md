@@ -1,6 +1,6 @@
 # Olá, sou a Natielli Torres 👋
 
-### Bem-vindo(a) ao meu perfil! Aqui estão algumas das tecnologias que utilizo no meu dia a dia e que estou sempre aprimorando.
+### Aqui estão algumas das tecnologias que utilizo no meu dia a dia e que estou sempre aprimorando.
 
 ---
 
