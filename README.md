@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou a Natielli Torres 👋
 
-<!--
-**natiellitorres/natiellitorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil! Aqui estão algumas das tecnologias que utilizo no meu dia a dia e que estou sempre aprimorando.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/py.svg) | ![PostgreSQL](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/postgres.svg) | ![Git](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/git.svg) | ![GitHub](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/github.svg) | ![VS Code](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/vscode.svg) | ![Figma](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/figma.svg) | ![R](https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/r.svg) |
+|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
+
+---
+
+# Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natiellitorres&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natiellitorres&layout=compact&theme=radical)
